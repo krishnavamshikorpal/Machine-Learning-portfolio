@@ -4,4 +4,6 @@ portfolio of machine learning projects completed by me in PG Diploma and some ar
 ## Contents
 [Predicting Boston_Housing_prices](https://github.com/krishnavamshikorpal/Machine-Learning-portfolio/blob/87419c4399898d23922a6e363beb4ccf4daaf1f2/Bostan%20House%20Price%20Predictions/boston%20pca.ipynb): A model to predict the value of a given house in the Boston real estate market using various statistical analysis tools. Identified the best price that a client can sell their house utilizing machine learning.
 
+[Bank Loan Predictions](https://github.com/krishnavamshikorpal/Machine-Learning-portfolio/blob/main/loan%20data/Loan%20prediction.ipynb): A model to predict a status of bank customer weather he is eligible to take loan or Not based on his current info.
+
 ***Tools:*** scikit-learn, Pandas, Seaborn, Matplotlib, Numpy
