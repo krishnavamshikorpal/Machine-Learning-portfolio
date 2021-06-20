@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html >
+<!--From https://codepen.io/frytyler/pen/EGdtg-->
+<head>
+  <meta charset="UTF-8">
+  <title>iPad Pricing</title>
+  
+  
+</head>
+
+<body>
+ <div class="login">
+	<h1>Predicting Price of ipad kv</h1>
+
+
+     <!-- Main Input For Receiving Query to our ML -->
+    <form action="{{ url_for('predict')}}"method="post">
+        <select name="Screen">
+            <option value="1">Mini</option>
+            <option value="2">Air</option>
+            <option value="3">Pro</option>
+        </select> 
+
+        <select name="Capacity">
+            <option value="1">16 GB</option>
+            <option value="2">32 GB</option>
+            <option value="3">64 GB</option>
+            <option value="4">128 GB</option>
+        </select> 
+        <select name="Connectivity">
+            <option value="0">Wifi</option>
+            <option value="1">Cellulat</option>
+        </select> 
+        <select name="Generation">
+            <option value="0">Previous</option>
+            <option value="1">Current</option>
+        </select> 
+
+    	<!-- <input type="text" name="Screen" placeholder="Screen" required="required" />
+      <input type="text" name="Capacity" placeholder="Capacity" required="required" />
+		  <input type="text" name="Connectivity" placeholder="Connectivity" required="required" />
+		  <input type="text" name="Gen" placeholder="Gen" required="required" /> -->
+
+        <button type="submit" class="btn btn-primary btn-block btn-large">Predict</button>
+    </form>
+
+   <br>
+   <br>
+   {{ prediction_text }}
+
+ </div>
+
+
+</body>
+</html>
