@@ -6,4 +6,6 @@ portfolio of machine learning projects completed by me in PG Diploma and some ar
 
 [Bank Loan Predictions](https://github.com/krishnavamshikorpal/Machine-Learning-portfolio/blob/main/loan%20data/Loan%20prediction.ipynb): A model to predict a status of bank customer weather he is eligible to take loan or Not based on his current info.
 
+[Ipad Price Prediction](): Model that predicts the price of Ipad according to the features we required. Created an app using flask generated HTML and deployed in Heroku. Wanna check the Ipad price?? please click [here]() 
+
 ***Tools:*** scikit-learn, Pandas, Seaborn, Matplotlib, Numpy
