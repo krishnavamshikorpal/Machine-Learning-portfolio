@@ -8,6 +8,6 @@ portfolio of machine learning projects completed by me in PG Diploma and some ar
 
 [Ipad Price Prediction](https://github.com/krishnavamshikorpal/Machine-Learning-portfolio/blob/main/Ipad/model.py): Model that predicts the price of Ipad according to the features we required. Created an app using flask generated HTML and deployed in Heroku. Wanna check the Ipad price?? please click [here](https://ipadpredictions.herokuapp.com/)
 
-[KTM Bike showroom data](https://github.com/krishnavamshikorpal/Machine-Learning-portfolio/blob/main/KTM/model.py): A model that estimate the probabilty of purchasing the bike by a visitor who visted the showroom based on some input features like age, occupation, current bike etc.. Created an app using flask generated HTML and deployed in Heroku.For dashboard please click [here](https://ktmvisitorchances.herokuapp.com/)
+[KTM Bike showroom visitors data](https://github.com/krishnavamshikorpal/Machine-Learning-portfolio/blob/main/KTM/model.py): A model that estimate the probabilty of purchasing the bike by a visitor who visted the showroom based on some input features like age, occupation, current bike etc.. Created an app using flask generated HTML and deployed in Heroku.For dashboard please click [here](https://ktmvisitorchances.herokuapp.com/)
 
 ***Tools:*** scikit-learn, Pandas, Seaborn, Matplotlib, Numpy
