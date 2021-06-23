@@ -10,6 +10,6 @@ portfolio of machine learning projects completed by me in PG Diploma and some ar
 
 [KTM Bike showroom visitors data](https://github.com/krishnavamshikorpal/Machine-Learning-portfolio/blob/main/KTM/model.py): A model that estimate the probabilty of purchasing the bike by a visitor who visted the showroom based on some input features like age, occupation, current bike etc.. Created an app using flask generated HTML and deployed in Heroku.For dashboard please click [here](https://ktmvisitorchances.herokuapp.com/)
 
-[Credit Fraud Detection](https://github.com/krishnavamshikorpal/Machine-Learning-portfolio/blob/main/Credit%20fraud%20Detection/credit%20fraud.ipynb): A highly imbalanced data set. It is about to predict weather transaction is normal or fraud. Model builded with precision recall curve. Also perfomed various methods to deal with imbalanced dataset. To check various methods please clik [here]()
+[Credit Fraud Detection](https://github.com/krishnavamshikorpal/Machine-Learning-portfolio/blob/main/Credit%20fraud%20Detection/credit%20fraud.ipynb): A highly imbalanced data set. It is about to predict weather transaction is normal or fraud. Model builded with precision recall curve. Also perfomed various methods to deal with imbalanced dataset. To check various methods please clik [here](https://github.com/krishnavamshikorpal/Machine-Learning-portfolio/blob/main/Credit%20fraud%20Detection/Various%20methods%20to%20handle%20imbalanced%20datasets.ipynb)
 
 ***Tools:*** scikit-learn, Pandas, Seaborn, Matplotlib, Numpy
