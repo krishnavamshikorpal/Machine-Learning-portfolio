@@ -7,6 +7,7 @@ portfolio of machine learning projects completed by me in PG Diploma and some ar
 [Bank Loan Predictions](https://github.com/krishnavamshikorpal/Machine-Learning-portfolio/blob/main/loan%20data/Loan%20prediction.ipynb): A model to predict a status of bank customer weather he is eligible to take loan or Not based on his current info.
 
 [Ipad Price Prediction](https://github.com/krishnavamshikorpal/Machine-Learning-portfolio/blob/main/Ipad/model.py): Apple, I-pad pricing analytics model using Regression Techniques
+
 o	Determination of key influencers in I-Pad price
 
 o	Preparation of Data for multiple regression
@@ -18,6 +19,7 @@ o	Generated HTML code and deployed in Heroku and GitHub
 Wanna check the Ipad price?? please click [here](https://ipadpredictions.herokuapp.com/)
 
 [KTM Bike showroom visitors data](https://github.com/krishnavamshikorpal/Machine-Learning-portfolio/blob/main/KTM/model.py): Consumer Behavior analytics for KTM showroom for determining window shopping customers
+
 o	Identification of key parameters’ leading to bike purchase
 
 o	Preparation of data for building classification model
