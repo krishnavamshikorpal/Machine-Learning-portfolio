@@ -6,9 +6,21 @@ portfolio of machine learning projects completed by me in PG Diploma and some ar
 
 [Bank Loan Predictions](https://github.com/krishnavamshikorpal/Machine-Learning-portfolio/blob/main/loan%20data/Loan%20prediction.ipynb): A model to predict a status of bank customer weather he is eligible to take loan or Not based on his current info.
 
-[Ipad Price Prediction](https://github.com/krishnavamshikorpal/Machine-Learning-portfolio/blob/main/Ipad/model.py): Model that predicts the price of Ipad according to the features we required. Created an app using flask generated HTML and deployed in Heroku. Wanna check the Ipad price?? please click [here](https://ipadpredictions.herokuapp.com/)
+[Ipad Price Prediction](https://github.com/krishnavamshikorpal/Machine-Learning-portfolio/blob/main/Ipad/model.py): Apple, I-pad pricing analytics model using Regression Techniques
+o	Determination of key influencers in I-Pad price
+o	Preparation of Data for multiple regression
+o	Predictive analysis for determining price of new I-Pads
+o	Generated HTML code and deployed in Heroku and GitHub
+Wanna check the Ipad price?? please click [here](https://ipadpredictions.herokuapp.com/)
 
-[KTM Bike showroom visitors data](https://github.com/krishnavamshikorpal/Machine-Learning-portfolio/blob/main/KTM/model.py): A model that estimate the probabilty of purchasing the bike by a visitor who visted the showroom based on some input features like age, occupation, current bike etc.. Created an app using flask generated HTML and deployed in Heroku.For dashboard please click [here](https://ktmvisitorchances.herokuapp.com/)
+[KTM Bike showroom visitors data](https://github.com/krishnavamshikorpal/Machine-Learning-portfolio/blob/main/KTM/model.py): Consumer Behavior analytics for KTM showroom for determining window shopping customers
+o	Identification of key parameters’ leading to bike purchase
+o	Preparation of data for building classification model
+o	Build and tested – Logistic Regression, KNN, Naive Bayes, SVM
+o	Evaluated model for best classification accuracy
+o	Machine learning model for determining probability of purchase
+o	Generated HTML code and deployed in Heroku and Git Hub
+For dashboard please click [here](https://ktmvisitorchances.herokuapp.com/)
 
 [Credit Fraud Detection](https://github.com/krishnavamshikorpal/Machine-Learning-portfolio/blob/main/Credit%20fraud%20Detection/credit%20fraud.ipynb): A highly imbalanced data set. It is about to predict weather transaction is normal or fraud. Model builded with precision recall curve. Also perfomed various methods to deal with imbalanced dataset. To check various methods please click [here](https://github.com/krishnavamshikorpal/Machine-Learning-portfolio/blob/main/Credit%20fraud%20Detection/Various%20methods%20to%20handle%20imbalanced%20datasets.ipynb)
 
